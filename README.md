@@ -4,10 +4,11 @@ This javascript code when injected into enginuity (on a video page) will automat
 # Installation
 To load this, go into a lesson and paste this into the console:
 ```javascript
-$.getScript("https://webmsgr.github.io/edgenuity-skipper/release/skipper.min.js")
+$.getScript("https://github.com/Bmaster7300/edgenuity-skipper/release/skipper.min.js")
 ```
 
-Bookmark version (Drag into bookmarks bar, click to activate): <a href='javascript:$.getScript("https://webmsgr.github.io/edgenuity-skipper/release/skipper.min.js");void(0);'>edgenuity-skipper</a>
+Bookmark version (Drag into bookmarks bar, click to activate): <a href='javascript:$.getScript("https://webmsgr.github.io/edgenuity-skipper/release/skipper.min.js](https://github.com/Bmaster7300/edgenuity-skipper/release/skipper.min.js")
+)");void(0);'>edgenuity-skipper</a>
 # Features
 * Autoplay on videos (default on)
 * Automatic skipping of intro, hint, and exit audio (default off)
@@ -17,5 +18,5 @@ Bookmark version (Drag into bookmarks bar, click to activate): <a href='javascri
 With shift+\ you can access the overlay where you can configure the settings
 
 # Source
-Source code found: [here]([https://github.com/webmsgr/edgenuity-skipper/blob/main/src/skipper.js](https://github.com/Bmaster7300/edgenuity-skipper/blob/7c0c2e8ed49e0393158be2d7ef74039e12974491/release/skipper.min.js))
+Source code found: [here]([https://github.com/webmsgr/edgenuity-skipper/blob/main/src/skipper.js](https://github.com/Bmaster7300/edgenuity-skipper/release/skipper.min.js))
 
